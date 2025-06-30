@@ -22,18 +22,12 @@ Ability to identify, analyze, and resolve security issues.
 Communication Skills:
 Ability to communicate technical information to both technical and non-technical audiences. 
 Education:
-Bachelor's or Master's degree in Computer Science, Information Security, or a related field. 
+Diploma is Data Analysis, or a related field. 
 Certifications:
-Professional certifications like CISSP, CompTIA Security+, and others demonstrate expertise and are highly valued in the field. 
+Professional certifications like TestOut Professional, CompTIA Security+, and others demonstrate expertise and are highly valued in the field. 
 
-Hello! Thank you for coming here. I'd love to chat with people☕.
 𝑺𝒖𝒎𝒎𝒂𝒓𝒚:
-•	Bachelor of IT (Distinction) providing technical and cybersecurity support as an Application Support Engineer.
-•	Google IT Support and Cybersecurity certificates graduate.
-•	Microsoft Certified: Security, Compliance, and Identity (SC-900).
-•	Experience in application support, logistics and retail, technical support, and customer service.
-•	IT procurement expertise (saves 25%), NIST compliance (saves ~AU$100,000), risk management (prevents 16-hour downtimes).
-•	Passionate about Customer Service, IT Infrastructure, Networking, Artificial Intelligence, and Cybersecurity.
+I have a strong passion for cybersecurity, and I believe that earning a Diploma in Data Analysis from Robertson College will enable me to make a meaningful contribution to the field. I am dedicated to using my technical skills and critical thinking abilities to protect organizations and individuals from cyber threats.
 𝑲𝒆𝒚 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
 •	IT Procurement: Saved 25% of the total cost of IT procurement.
 •	NIST: Develop and maintain strategic preventive plans to counter ransomware attacks, saving over $100,000.
