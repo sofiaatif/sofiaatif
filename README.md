@@ -14,6 +14,11 @@ Project
 Certifications        
         • Data Analytics Essentials (Cisco) 
         • Microsoft Office Pro (TestOut Corporation)        
+        • Data Analytics Essentials (LinkedIn)
+
+Certifications        
+        • Data Analytics Essentials (Cisco) 
+        • Microsoft Office Pro (TestOut Corporation)        
         • Data Analytics Essentials (LinkedIn) 
 
 Technical Skills
