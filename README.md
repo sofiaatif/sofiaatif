@@ -2,7 +2,7 @@
 
 I am passionate about cybersecurity. I have a diploma in Data Analysis from Robertson College, which will empower me to make significant contributions to this vital field. My goal is to leverage my technical skills and critical thinking abilities to enhance the protection of organizations and individuals against cyber threats.
 
-Education
+Education    
         Diploma in Data Analysis
 
 Project    
@@ -22,5 +22,5 @@ Technical Skills
 Soft Skills        
         Analytical and Problem-Solving Skills, Ability to communicate technical information to both technical and non-technical audiences.
 
-Stay tuned for updates! 
+Stay tuned for Updates!    
 This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out
