@@ -14,7 +14,7 @@ Project
 Project        
         • Utilized comprehensive insights obtained through the exploration, cleaning, and analysis of the dataset. 
         • The project featured a well-structured presentation with essential sections, including the introduction, data exploration, analysis methodology, findings, and conclusion.        
-        • Data Analytics Essentials (LinkedIn)
+        • Demonstrated strong presentation skills, ensuring clarity and engagement while effectively addressing potential questions. 
 
 Certifications        
         • Data Analytics Essentials (Cisco) 
