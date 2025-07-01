@@ -23,4 +23,4 @@ Soft Skills
         Analytical and Problem-Solving Skills, Ability to communicate technical information to both technical and non-technical audiences.
 
 Stay tuned for updates! 
-This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out.
+This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out
