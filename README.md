@@ -11,9 +11,9 @@ Project
         • Demonstrated strong presentation skills, ensuring clarity and engagement while effectively addressing potential questions. 
         • Insights and recommendations were presented in an organized and visually appealing format, successfully conveying the significance of the data-driven analysis of COVID-19 datasets.
 
-Certifications        
-        • Data Analytics Essentials (Cisco) 
-        • Microsoft Office Pro (TestOut Corporation)        
+Project        
+        • Utilized comprehensive insights obtained through the exploration, cleaning, and analysis of the dataset. 
+        • The project featured a well-structured presentation with essential sections, including the introduction, data exploration, analysis methodology, findings, and conclusion.        
         • Data Analytics Essentials (LinkedIn)
 
 Certifications        
