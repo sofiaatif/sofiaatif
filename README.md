@@ -5,18 +5,18 @@ I am passionate about cybersecurity. I have a diploma in Data Analysis from Robe
 Education
         Diploma in Data Analysis
 
-Project        
-        • Utilized comprehensive insights obtained through the exploration, cleaning, and analysis of the dataset.
+Project    
+        • Utilized comprehensive insights obtained through the exploration, cleaning, and analysis of the dataset.           
         • The project featured a well-structured presentation with essential sections, including the introduction, data exploration, analysis methodology, findings, and conclusion.        
         • Demonstrated strong presentation skills, ensuring clarity and engagement while effectively addressing potential questions. 
         • Insights and recommendations were presented in an organized and visually appealing format, successfully conveying the significance of the data-driven analysis of COVID-19 datasets. 
 
 Certifications        
-        • Data Analytics Essentials (Cisco) 
-        • Microsoft Office Pro (TestOut Corporation)        
+        • Data Analytics Essentials (Cisco)    
+        • Microsoft Office Pro (TestOut Corporation)           
         • Data Analytics Essentials (LinkedIn) 
 
-Technical Skills
+Technical Skills        
         SQL, Tableau, Google Workspace, Office 365, Troubleshooting Software, Windows, and many more.
     
 Soft Skills        
