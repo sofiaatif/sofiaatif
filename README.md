@@ -1,6 +1,6 @@
 ## Hi there 
 
-I have a strong passion for cybersecurity, and I believe that earning a Diploma in Data Analysis from Robertson College will enable me to make a meaningful contribution to the field. I am dedicated to using my technical skills and critical thinking abilities to protect     organizations and individuals from cyber threats.
+I am passionate about cybersecurity. I have a diploma in Data Analysis from Robertson College, which will empower me to make significant contributions to this vital field. My goal is to leverage my technical skills and critical thinking abilities to enhance the protection of organizations and individuals against cyber threats.
 
 Education
         Diploma in Data Analysis
@@ -25,5 +25,5 @@ Soft Skills
 Interests
         Data Analytics, Research, Cybersecurity, Artificial Intelligence.
 
-Stay tuned for updates!
-This portfolio will continue to grow as I complete additional certificates. I encourage you to visit again to see my progress and learn more about my skills and experience. Feel free to reach out.
+Stay tuned for updates! 
+This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out.
