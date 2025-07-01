@@ -3,7 +3,7 @@
 I am passionate about cybersecurity. I have a diploma in Data Analysis from Robertson College, which will empower me to make significant contributions to this vital field. My goal is to leverage my technical skills and critical thinking abilities to enhance the protection of organizations and individuals against cyber threats.
 
 Education    
-        Diploma in Data Analyst
+        Diploma in Data Analytics
 
 Project    
         • Utilized comprehensive insights obtained through the exploration, cleaning, and analysis of the dataset.           
