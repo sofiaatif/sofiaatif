@@ -5,25 +5,25 @@ Passionate and analytical professional with a Diploma in Data Analysis from Robe
 **Education**    
         Diploma in Data Analyst
 
-Project    
+**Project**    
         • Conducted comprehensive exploration, cleaning, and analysis of COVID-19 datasets, identifying trends and anomalies applicable to cybersecurity threat detection.        
         • Developed a structured presentation with sections including introduction, data exploration, methodology, findings, and conclusion, ensuring clarity and engagement.        
         • Presented insights and recommendations in a visually appealing format, effectively communicating complex data to technical and non-technical audiences.        
         • Demonstrated strong presentation skills, addressing questions with confidence and precision.
 
-Certifications        
+**Certifications**        
         • Fundamentals of Cyber Security, Google, Jul 2025        
         • Data Analytics Essentials, Cisco, Oct 2024          
         • Microsoft Office Pro, TestOut Corporation, Sep 2024                 
         • Data Analytics Essentials, LinkedIn, Jul 2024
 
-Technical Skills        
+**Technical Skills**        
         • Data Analysis Tools: SQL, Python, Tableau, Google Workspace, Office 365        
         • Cybersecurity-Relevant Tools: Linux, Troubleshooting Software, Windows        
         • Core Competencies: Anomaly Detection, Pattern Recognition, Data Visualization, Analytical Reporting.
     
-Soft Skills        
+**Soft Skills**        
         Analytical and Problem-Solving Skills, Ability to communicate technical information to diverse audiences.
 
-Stay tuned for Updates!    
+**Stay tuned for Updates!**    
 This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out
