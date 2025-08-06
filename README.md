@@ -18,8 +18,8 @@ Certifications
         • Data Analytics Essentials, LinkedIn,  
 
 Technical Skills        
-        • Data Analysis Tools: SQL, Python, Tableau, Google Workspace, Office 365
-        • Cybersecurity-Relevant Tools: Linux, Troubleshooting Software, Windows
+        • Data Analysis Tools: SQL, Python, Tableau, Google Workspace, Office 365        
+        • Cybersecurity-Relevant Tools: Linux, Troubleshooting Software, Windows        
         • Core Competencies: Anomaly Detection, Pattern Recognition, Data Visualization, Analytical Reporting.
     
 Soft Skills        
