@@ -26,4 +26,4 @@ Passionate and analytical professional with a Diploma in Data Analysis from Robe
         Analytical and Problem-Solving Skills, Ability to communicate technical information to diverse audiences.
 
 **Stay tuned for Updates!**    
-This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out
+This portfolio will continue to grow as I complete additional certifications. I encourage you to visit again to see my progress and learn more about my skills and experiences. Feel free to reach out.
