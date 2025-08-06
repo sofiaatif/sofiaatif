@@ -12,10 +12,10 @@ Project
         • Demonstrated strong presentation skills, addressing questions with confidence and precision.
 
 Certifications        
-        • Fundamentals of Cyber Security, Google, July 2025        
-        • Data Analytics Essentials, Cisco,            
-        • Microsoft Office Pro, TestOut Corporation,                   
-        • Data Analytics Essentials, LinkedIn,  
+        • Fundamentals of Cyber Security, Google, Jul 2025        
+        • Data Analytics Essentials, Cisco, Oct 2024          
+        • Microsoft Office Pro, TestOut Corporation, Sep 2024                 
+        • Data Analytics Essentials, LinkedIn, jul 2024
 
 Technical Skills        
         • Data Analysis Tools: SQL, Python, Tableau, Google Workspace, Office 365        
