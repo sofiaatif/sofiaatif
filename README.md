@@ -2,7 +2,7 @@
 
 Passionate and analytical professional with a Diploma in Data Analysis from Robertson College and a Fundamentals of Cyber Security certification from Google. Skilled in leveraging SQL, Python, Linux, and Tableau to analyze data and identify anomalies critical for cybersecurity. Adept at presenting complex findings to diverse audiences, with strong problem-solving and critical-thinking abilities. Committed to protecting organizations and individuals from cyber threats through data-driven strategies and technical expertise.
 
-Education    
+**Education**    
         Diploma in Data Analyst
 
 Project    
