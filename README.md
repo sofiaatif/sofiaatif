@@ -1,23 +1,26 @@
 ## Hi there 
 
-I am passionate about cybersecurity. I have a diploma in Data Analysis from Robertson College, which will empower me to make significant contributions to this vital field. My goal is to leverage my technical skills and critical thinking abilities to enhance the protection of organizations and individuals against cyber threats.
+Passionate and analytical professional with a Diploma in Data Analysis from Robertson College and a Fundamentals of Cyber Security certification from Google. Skilled in leveraging SQL, Python, Linux, and Tableau to analyze data and identify anomalies critical for cybersecurity. Adept at presenting complex findings to diverse audiences, with strong problem-solving and critical-thinking abilities. Committed to protecting organizations and individuals from cyber threats through data-driven strategies and technical expertise.
 
 Education    
         Diploma in Data Analyst
 
 Project    
-        • Utilized comprehensive insights obtained through the exploration, cleaning, and analysis of the dataset.           
-        • The project featured a well-structured presentation with essential sections, including the introduction, data exploration, analysis methodology, findings, and conclusion.    
-        • Demonstrated strong presentation skills, ensuring clarity and engagement while effectively addressing potential questions.           
-        • Insights and recommendations were presented in an organized and visually appealing format, successfully conveying the significance of the data-driven analysis of COVID-19 datasets. 
+        • Conducted comprehensive exploration, cleaning, and analysis of COVID-19 datasets, identifying trends and anomalies applicable to cybersecurity threat detection.
+        • Developed a structured presentation with sections including introduction, data exploration, methodology, findings, and conclusion, ensuring clarity and engagement.
+        • Presented insights and recommendations in a visually appealing format, effectively communicating complex data to technical and non-technical audiences.
+        • Demonstrated strong presentation skills, addressing questions with confidence and precision.
 
 Certifications        
-        • Data Analytics Essentials (Cisco)    
-        • Microsoft Office Pro (TestOut Corporation)           
-        • Data Analytics Essentials (LinkedIn) 
+        • Fundamentals of Cyber Security, Google, July 2025
+        • Data Analytics Essentials, Cisco,     
+        • Microsoft Office Pro, TestOut Corporation,           
+        • Data Analytics Essentials, LinkedIn,  
 
 Technical Skills        
-        SQL, Tableau, Google Workspace, Office 365, Troubleshooting Software, Windows, and many more.
+        • Data Analysis Tools: SQL, Python, Tableau, Google Workspace, Office 365
+        • Cybersecurity-Relevant Tools: Linux, Troubleshooting Software, Windows
+        • Core Competencies: Anomaly Detection, Pattern Recognition, Data Visualization, Analytical Reporting.
     
 Soft Skills        
         Analytical and Problem-Solving Skills, Ability to communicate technical information to both technical and non-technical audiences.
