@@ -5,7 +5,7 @@ Passionate and analytical professional with a Diploma in Data Analysis from Robe
 **Education**    
         Diploma in Data Analyst
 
-**Project**    
+**Projects**    
         • Conducted comprehensive exploration, cleaning, and analysis of COVID-19 datasets, identifying trends and anomalies applicable to cybersecurity threat detection.        
         • Developed a structured presentation with sections including introduction, data exploration, methodology, findings, and conclusion, ensuring clarity and engagement.        
         • Presented insights and recommendations in a visually appealing format, effectively communicating complex data to technical and non-technical audiences.        
